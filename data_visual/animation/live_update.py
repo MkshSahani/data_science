@@ -4,6 +4,10 @@ import numpy as np
 import pandas as pd
 
 
+def function_name(value, *args, **kwargs):
+    pass
+
+
 # plt.plot(keys, values)
 # plt.show()
 
